@@ -1,0 +1,31 @@
+{
+    "batch_size": 256,
+    "config": {
+        "batch_size": 256,
+        "device": "cpu",
+        "eval_interval": 1,
+        "eval_sample_rate": 1,
+        "eval_save_model_interval": 1,
+        "exp_name": "dev",
+        "learning_rate": 0.001,
+        "log_dir": "./outputs",
+        "model_name": "base",
+        "n_epochs": 20,
+        "patient_id": 1,
+        "seed": 1,
+        "test_ratio": 0.3,
+        "train_ratio": 0.7
+    },
+    "device": "cpu",
+    "eval_interval": 1,
+    "eval_save_model_interval": 1,
+    "exp_name": "dev",
+    "learning_rate": 0.001,
+    "log_dir": "./outputs",
+    "model_name": "base",
+    "n_epochs": 20,
+    "seed": 1,
+    "test_ratio": 0.3,
+    "train_ratio": 0.7,
+    "val_ratio": 5.551115123125783e-17
+}
